@@ -1,5 +1,5 @@
 const SelectedCoffeeBean = () => {
-  return null;
-}
+  return <div className='selected-coffee'></div>;
+};
 
 export default SelectedCoffeeBean;
