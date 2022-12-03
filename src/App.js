@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <h1>Welcome to Coffee App</h1>
-      <SelectedCoffeeBean />
+      <SelectedCoffeeBean coffeeBeans={coffeeBeans} />
     </>
   );
 }
